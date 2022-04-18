@@ -87,4 +87,17 @@
         app:layout_constraintTop_toBottomOf="@id/google_button"
         android:layout_marginTop="10dp" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/goat_image"
+        android:minWidth="200dp"
+        android:minHeight="200dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/login_message"
+        android:layout_marginBottom="20dp"
+ />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
