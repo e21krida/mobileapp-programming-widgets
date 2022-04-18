@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="google_button">Login with google</string>
+    <string name="facebook_button">Login with facebook</string>
+    <string name="login_message">Login</string>
+    <string name="username_message">Username</string>
+    <string name="password_message">Password</string>
 </resources>
