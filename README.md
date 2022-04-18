@@ -105,5 +105,5 @@ googleButton.setOnClickListener(new View.OnClickListener() {
 - Efter detta lade jag endast in grade-funktionen samt tog en skärmdump på min prototyp av en login-sida för duggan Layouts & Views!
 
 
-![](android.png)
+![](skärmdump.png)
 
